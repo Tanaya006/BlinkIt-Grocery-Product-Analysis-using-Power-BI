@@ -1,2 +1,2 @@
 # BlinkIt-Grocery-Product-Analysis-using-Power-BI
-In this project we are analyzing retail sales data using Power BI to uncover insights across different item categories and retail outlets. 
+In this project we are analyzing retail sales data using Power BI to uncover insights across different item categories and retail outlets. The dataset includes product attributes, outlet characteristics, and customer ratings. Using Power Query and DAX, interactive visualizations were built to explore item sales, outlet performance, and customer preferences. The dashboard helps identify high-performing products, sales patterns by outlet type, and the impact of visibility and fat content on sales. Key insights guide inventory and marketing decisions.
